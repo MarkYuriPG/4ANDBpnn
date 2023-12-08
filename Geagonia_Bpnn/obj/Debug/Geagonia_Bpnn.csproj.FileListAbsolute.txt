@@ -1,0 +1,11 @@
+F:\SCHOOL\2023-2024\CS345-IS1\Geagonia_Bpnn\Geagonia_Bpnn\bin\Debug\Geagonia_Bpnn.exe.config
+F:\SCHOOL\2023-2024\CS345-IS1\Geagonia_Bpnn\Geagonia_Bpnn\bin\Debug\Geagonia_Bpnn.exe
+F:\SCHOOL\2023-2024\CS345-IS1\Geagonia_Bpnn\Geagonia_Bpnn\bin\Debug\Geagonia_Bpnn.pdb
+F:\SCHOOL\2023-2024\CS345-IS1\Geagonia_Bpnn\Geagonia_Bpnn\obj\Debug\Geagonia_Bpnn.csproj.AssemblyReference.cache
+F:\SCHOOL\2023-2024\CS345-IS1\Geagonia_Bpnn\Geagonia_Bpnn\obj\Debug\Geagonia_Bpnn.csproj.SuggestedBindingRedirects.cache
+F:\SCHOOL\2023-2024\CS345-IS1\Geagonia_Bpnn\Geagonia_Bpnn\obj\Debug\Geagonia_Bpnn.Form1.resources
+F:\SCHOOL\2023-2024\CS345-IS1\Geagonia_Bpnn\Geagonia_Bpnn\obj\Debug\Geagonia_Bpnn.Properties.Resources.resources
+F:\SCHOOL\2023-2024\CS345-IS1\Geagonia_Bpnn\Geagonia_Bpnn\obj\Debug\Geagonia_Bpnn.csproj.GenerateResource.cache
+F:\SCHOOL\2023-2024\CS345-IS1\Geagonia_Bpnn\Geagonia_Bpnn\obj\Debug\Geagonia_Bpnn.csproj.CoreCompileInputs.cache
+F:\SCHOOL\2023-2024\CS345-IS1\Geagonia_Bpnn\Geagonia_Bpnn\obj\Debug\Geagonia_Bpnn.exe
+F:\SCHOOL\2023-2024\CS345-IS1\Geagonia_Bpnn\Geagonia_Bpnn\obj\Debug\Geagonia_Bpnn.pdb
