@@ -24,7 +24,7 @@ namespace Geagonia_Bpnn
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Nn = new NeuralNet(4, 150, 1);
+            Nn = new NeuralNet(4, 125, 1);
 
             if (Nn != null)
             {
